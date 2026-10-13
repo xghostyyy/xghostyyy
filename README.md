@@ -18,7 +18,7 @@ My goal is to build clean, maintainable applications with thoughtful architectur
 - 🪪 I have a college diploma confirming my skills. 
 
 ---
-
+<!--
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -37,6 +37,7 @@ My goal is to build clean, maintainable applications with thoughtful architectur
     </td>
       </tr>
 </table>
+-->
 
 ### Backend
 
